@@ -1,0 +1,1 @@
+export default function ErrorPago(){return (<div className='text-center'><h2 className='text-danger'>No se pudo procesar el pago</h2><p>Intenta nuevamente o elige otro medio de pago.</p></div>)}

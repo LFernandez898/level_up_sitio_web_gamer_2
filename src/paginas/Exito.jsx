@@ -1,0 +1,1 @@
+export default function Exito(){return (<div className='text-center'><h2 className='text-success'>¡Compra exitosa!</h2><p>Tu pedido ha sido procesado correctamente.</p></div>)}
